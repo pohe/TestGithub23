@@ -9,8 +9,11 @@ namespace TestGithub23
     internal class ClassPohe
     {
         public string Name { get; set; }
+
+        public string  Address { get; set; }
         public ClassPohe()
         {
+            Address = "Vej 123";
             Name = "Pohe";
         }
     }
