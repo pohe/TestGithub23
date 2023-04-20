@@ -9,3 +9,5 @@ Console.WriteLine(pohe.Name);
 ClassLuop luop = new ClassLuop();
 Console.WriteLine(luop.Age + luop.Name);
 Console.WriteLine(luop.Age);
+
+//added i sprint 2
